@@ -1,6 +1,7 @@
-## THIAGO BÜHRER - SOFTWARE DEVELOPER
+### THIAGO BÜHRER - SOFTWARE DEVELOPER
 
-### __MY TECH STACK__
+
+#### MY TECH STACK:
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
