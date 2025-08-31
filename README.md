@@ -1,6 +1,6 @@
-## Hi there, I'm Thiago
+## THIAGO BÜHRER - SOFTWARE DEVELOPER
 
-## ⚡Technologies
+### __MY TECH STACK__
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
@@ -28,7 +28,6 @@
 ![AnyDesk](https://img.shields.io/badge/-AnyDesk-ED1C24?style=flat-square&logo=anydesk)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-00B8F1?style=flat-square&logo=servicenow)
 ![MicrosoftAzure](https://img.shields.io/badge/-MicrosoftAzure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
