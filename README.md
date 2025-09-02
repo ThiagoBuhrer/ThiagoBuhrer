@@ -1,6 +1,6 @@
-<h3>THIAGO BÜHRER - SOFTWARE DEVELOPER</h3>
+![Profile](images/github_prof.jpg)
 
-<h3>MY TECH STACK:</h3><br/>
+### MY TECH STACK:
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
