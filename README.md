@@ -44,4 +44,4 @@
 <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&title_color=9ea3f8&text_color=9ea3f8&icon_color=9ea3f8&border_color=000000&hide_border=true&layout=compact" alt="Most used languages" width="500">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Current+Tech+Stack%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Ideas+to+share%3F+Get+in+touch+below..)](https://git.io/typing-svg)
