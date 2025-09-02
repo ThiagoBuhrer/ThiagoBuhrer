@@ -41,4 +41,6 @@
 
 </div>
 
-<img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&title_color=9ea3f8&text_color=9ea3f8&icon_color=9ea3f8&border_color=000000&hide_border=true&layout=compact" alt="Most used languages" width="500">  
+<img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&title_color=9ea3f8&text_color=9ea3f8&icon_color=9ea3f8&border_color=000000&hide_border=true&layout=compact" alt="Most used languages" width="500">  <br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoBuhrer&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" width="500" />
