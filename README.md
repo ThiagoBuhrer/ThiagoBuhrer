@@ -2,6 +2,7 @@
   <img src="images/github_prof.jpg" alt="Profile" width="500">
 </p>
 
+<div align="center">
 
 ### MY TECH STACK:
 
@@ -40,3 +41,6 @@
 
 
 <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&title_color=9ea3f8&text_color=9ea3f8&icon_color=9ea3f8&border_color=000000&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+
+
+</div>
