@@ -2,7 +2,7 @@
   <img src="images/github_prof.jpg" alt="Profile" width="500">
 </p>
 
-<div align="center">
+<div align="left">
 
 ### MY TECH STACK:
 
