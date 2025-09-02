@@ -4,7 +4,7 @@
 
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Current+Tech+Stack%3A)](https://git.io/typing-svg)
+### MY TECH STACK:
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=9ea3f8)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=9ea3f8)
