@@ -2,6 +2,7 @@
   <img src="images/github_prof.jpg" alt="Profile" width="500">
 </p>
 
+
 ### MY TECH STACK:
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=9ea3f8)
@@ -38,10 +39,4 @@
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=9ea3f8)<br>
 
 
-
-<img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
-
-
-
-
-
+<img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&title_color=9ea3f8&text_color=9ea3f8&icon_color=9ea3f8&border_color=000000&hide_border=true&layout=compact" alt="Most used languages" /> <br>
