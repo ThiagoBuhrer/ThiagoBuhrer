@@ -1,4 +1,6 @@
-![Profile](images/github_prof.jpg)
+<p align="center">
+  <img src="images/github_prof.jpg" alt="Profile" width="500">
+</p>
 
 ### MY TECH STACK:
 
