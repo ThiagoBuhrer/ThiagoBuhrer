@@ -45,3 +45,15 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Ideas+to+share%3F+Get+in+touch+below..)](https://git.io/typing-svg)
+
+<div align="left">
+
+<a href="mailto:thiagobuhrer@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hello%20Thiago%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch%20about...">
+  <img src="https://img.shields.io/badge/e-mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
