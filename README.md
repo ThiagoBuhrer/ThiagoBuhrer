@@ -63,7 +63,7 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/" target="_blank" rel="noopener">
-    <img src="https://cdn.simpleicons.org/linkedin/9ea3f8" height="30" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" fill="#9ea3f8" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <!-- Email -->
@@ -76,4 +76,5 @@
     <img src="https://cdn.simpleicons.org/github/9ea3f8" height="30" alt="GitHub"/>
   </a>
 </p>
+
 
