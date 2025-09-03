@@ -47,9 +47,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Ideas+to+share%3F+Get+in+touch+below..)](https://git.io/typing-svg)
 
 <p align="left">
-  <!-- LinkedIn -->
+  <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/" target="_blank" rel="noopener">
-    <img src="https://icon-icons.com/icons/linkedin/121338" height="30" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%239ea3f8?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <!-- Email -->
