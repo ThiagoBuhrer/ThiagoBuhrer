@@ -49,11 +49,11 @@
 <div align="left">
 
 <a href="mailto:thiagobuhrer@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hello%20Thiago%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch%20about...">
-  <img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/email-000000.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/">
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
