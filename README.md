@@ -1,7 +1,9 @@
+<!-- Profile Image -->
 <p align="left">
   <img src="images/github_prof.jpg" alt="Profile" width="500">
 </p>
 
+<!-- Tech Stack -->
 <div align="left">
 
 ### MY TECH STACK:
@@ -41,12 +43,17 @@
 
 </div>
 
+
+<!-- Languages Overview -->
 <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=ThiagoBuhrer&langs_count=6&card_width=500&bg_color=000000&title_color=9ea3f8&text_color=9ea3f8&icon_color=9ea3f8&border_color=000000&hide_border=true&layout=compact" alt="Most used languages" width="500">
 
 
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Ideas+to+share%3F+Get+in+touch+below..)](https://git.io/typing-svg)
 
-<p align="left" style="display:flex; align-items:center; gap:10px;">
+
+<!-- Contacts -->
+<p align="left" style="display:flex; align-items:center; gap:20px;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/" target="_blank" rel="noopener">
     <img src="https://i.postimg.cc/9rFC603d/linkedin.png" height="30" alt="LinkedIn"/>
