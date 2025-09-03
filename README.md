@@ -46,17 +46,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=1000&color=9EA3F8&background=000000&vCenter=true&width=500&lines=Ideas+to+share%3F+Get+in+touch+below..)](https://git.io/typing-svg)
 
-<p align="left">
+<p align="left" style="display:flex; align-items:center; gap:10px;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/" target="_blank" rel="noopener">
-    <img src="https://i.imgur.com/MtFr1Ge.png" height="30" alt="LinkedIn"/>
+    <img src="https://i.postimg.cc/9rFC603d/linkedin.png" height="30" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:thiagobuhrer@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/9ea3f8" height="30" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/thiagobuhrer" target="_blank" rel="noopener">
     <img src="https://cdn.simpleicons.org/github/9ea3f8" height="30" alt="GitHub"/>
