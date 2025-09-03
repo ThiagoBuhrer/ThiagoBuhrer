@@ -35,7 +35,6 @@
 ![Gradle](https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=9ea3f8)
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=9ea3f8)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=9ea3f8)
-![Slack](https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=9ea3f8)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=9ea3f8)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=9ea3f8)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=9ea3f8)<br>
