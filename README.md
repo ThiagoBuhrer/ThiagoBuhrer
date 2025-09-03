@@ -19,19 +19,19 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=9ea3f8)
 ![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=9ea3f8)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=9ea3f8)
-![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=9ea3f8)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=9ea3f8)<br>
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=9ea3f8)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=9ea3f8)
 ![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=9ea3f8)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9ea3f8)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=9ea3f8)
 ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=9ea3f8)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=9ea3f8)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=9ea3f8)<br>
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=9ea3f8)
 ![Workbench](https://img.shields.io/badge/MySQL_Workbench-000000?style=for-the-badge&logo=mysql&logoColor=9ea3f8)
 ![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=9ea3f8)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=9ea3f8)
-![AnyDesk](https://img.shields.io/badge/AnyDesk-000000?style=for-the-badge&logo=anydesk&logoColor=9ea3f8)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-000000?style=for-the-badge&logo=anydesk&logoColor=9ea3f8)<br>
 ![Gradle](https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=9ea3f8)
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=9ea3f8)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=9ea3f8)
