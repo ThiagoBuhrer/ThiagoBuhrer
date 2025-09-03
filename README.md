@@ -58,12 +58,12 @@
   <a href="https://www.linkedin.com/in/thiago-b%C3%BChrer-7269511a3/" target="_blank" rel="noopener">
     <img src="https://i.postimg.cc/9rFC603d/linkedin.png" height="30" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:thiagobuhrer@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/9ea3f8" height="30" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/thiagobuhrer" target="_blank" rel="noopener">
     <img src="https://cdn.simpleicons.org/github/9ea3f8" height="30" alt="GitHub"/>
