@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9ea3f8)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9ea3f8)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9ea3f8)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=9ea3f8)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=9ea3f8)<br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=9ea3f8)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=9ea3f8)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=9ea3f8)
